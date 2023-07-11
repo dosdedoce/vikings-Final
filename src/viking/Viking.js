@@ -1,5 +1,4 @@
-import Soldier from '../soldier/Soldier.js';
-
+const Soldier=require('../soldier/Soldier.js');
 class Viking extends Soldier{
     constructor(name, health , strength) {
         super(health , strength);

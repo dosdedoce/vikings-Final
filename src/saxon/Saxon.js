@@ -1,4 +1,4 @@
-import Soldier from '../soldier/Soldier.js';
+// import Soldier from '../soldier/Soldier.js';
 const Soldier=require('../soldier/Soldier.js');
 
 class Saxon extends Soldier {
